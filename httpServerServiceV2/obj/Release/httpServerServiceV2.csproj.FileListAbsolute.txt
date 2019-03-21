@@ -1,0 +1,9 @@
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Release\httpServerServiceV2.exe.config
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Release\httpServerServiceV2.exe
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Release\httpServerServiceV2.pdb
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\obj\Release\httpServerServiceV2.ProjectInstaller.resources
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\obj\Release\httpServerServiceV2.WebServerService.resources
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\obj\Release\httpServerServiceV2.csproj.GenerateResource.cache
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\obj\Release\httpServerServiceV2.csproj.CoreCompileInputs.cache
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\obj\Release\httpServerServiceV2.exe
+C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\obj\Release\httpServerServiceV2.pdb

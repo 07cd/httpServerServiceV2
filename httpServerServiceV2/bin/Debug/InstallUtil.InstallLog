@@ -1,0 +1,62 @@
+﻿
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.exe.
+Het bestand bevindt zich op C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.InstallLog.
+
+De Install-fase is voltooid en de Commit-fase begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.exe.
+Het bestand bevindt zich op C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.InstallLog.
+
+De Commit-fase is voltooid.
+
+De transactionele installatie is voltooid.
+
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.exe.
+Het bestand bevindt zich op C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.InstallLog.
+
+Er is een uitzondering opgetreden tijdens de Install-fase.
+System.ComponentModel.Win32Exception: De opgegeven service bestaat al
+
+De Rollback-fase van de installatie begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.exe.
+Het bestand bevindt zich op C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.InstallLog.
+
+De Rollback-fase is voltooid.
+
+De transactionele installatie is voltooid.
+
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.exe.
+Het bestand bevindt zich op C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.InstallLog.
+
+Er is een uitzondering opgetreden tijdens de Install-fase.
+System.ComponentModel.Win32Exception: De opgegeven service bestaat al
+
+De Rollback-fase van de installatie begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.exe.
+Het bestand bevindt zich op C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.InstallLog.
+
+De Rollback-fase is voltooid.
+
+De transactionele installatie is voltooid.
+
+Transactionele installatie wordt uitgevoerd.
+
+Begin van de Install-fase van de installatie.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.exe.
+Het bestand bevindt zich op C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.InstallLog.
+
+De Install-fase is voltooid en de Commit-fase begint.
+Raadpleeg de inhoud van het logboekbestand voor de voortgang van de assembly C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.exe.
+Het bestand bevindt zich op C:\Users\Xempes\source\repos\httpServerServiceV2\httpServerServiceV2\bin\Debug\httpServerServiceV2.InstallLog.
+
+De Commit-fase is voltooid.
+
+De transactionele installatie is voltooid.
